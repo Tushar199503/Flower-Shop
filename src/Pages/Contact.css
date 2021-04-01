@@ -1,0 +1,35 @@
+.contact .img{
+    width: 100%;
+    height: 22rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact .text{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    color: white
+  
+}
+.contact .contact-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.contact .contact-details{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.contact .flex-style{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.contact .justify-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
